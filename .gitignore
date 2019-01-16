@@ -1,0 +1,4 @@
+/socketio_node/node_modules
+/socketio_vue/node_modules
+/socketio_node/dist
+/socketio_vue/dist
